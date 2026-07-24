@@ -1,4 +1,13 @@
 # scratch-task-1-python
 
-PROJECT LINK :- 
+PROJECT LINK(IT12) :- 
 https://scratch.mit.edu/projects/1364191018
+
+PROJECT LINK(IT10) :- 
+https://scratch.mit.edu/projects/1364195631
+
+PROJECT LINK(IT8) :- 
+https://scratch.mit.edu/projects/1364197305
+
+PROJECT LINK(IT8) :- 
+https://scratch.mit.edu/projects/1364199152
